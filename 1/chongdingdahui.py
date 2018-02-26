@@ -1,7 +1,8 @@
 #coding=utf-8
 '''2018.1.27 手写搜题工具python带你开挂玩转冲顶大会'''
 
-import os,time
+import os
+import time
 from PIL import Image
 import pytesseract
 import webbrowser
